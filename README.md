@@ -15,4 +15,4 @@ From welder to data weilder. I help make a difference as best I can.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anthonyfourie&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=000000&ring=FF0078&fire=8500E4&sideNums=FF0078&sideLabels=3E8BFF&dates=FF00CF&currStreakNum=3E8BFF&currStreakLabel=3E8BFF)](https://git.io/streak-stats)
 
-[![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyfourie&show_icons=true&bg_color=000000&title_color=FF0078&text_color=3E8BFF&icon_color=8500E4&)]
+![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyfourie&show_icons=true&bg_color=000000&title_color=FF0078&text_color=3E8BFF&icon_color=8500E4&)
